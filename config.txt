@@ -1,0 +1,6 @@
+owner=523909930479255574
+prefix=&
+game=Break | &Play Music Bot
+stayinchannel=true
+songinstatus=false
+token=NjI5Mjg2Nzc0MjE2MzI3MTg5.XZXoKg.fQKJjDd4YABMFq65bl16vwwO1dE
